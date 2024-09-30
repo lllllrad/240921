@@ -1,0 +1,7 @@
+{
+  "name": "@this-project/240921",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "^5.6.2"
+  }
+}
